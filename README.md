@@ -41,19 +41,41 @@ The data used for this analysis was found on Kaggle website. You can get the dat
 <img width="1753" height="977" alt="image" src="https://github.com/user-attachments/assets/a1830e7e-b0ba-4e9c-a314-69b01ba56a10" />
 
 
+
+
+
 <img width="1538" height="771" alt="image" src="https://github.com/user-attachments/assets/bde5ae2c-7eb1-4d1d-ba64-532cbbabfad7" />
+
+
+
+
 
 
 <img width="1516" height="694" alt="image" src="https://github.com/user-attachments/assets/7d4ddb60-7b16-49bd-a749-3cdafdeac241" />
 
 
+
+
+
+
 <img width="975" height="831" alt="image" src="https://github.com/user-attachments/assets/324f1dbb-a986-4ab9-b0cd-b451a2c44681" />
+
+
+
+
 
 
 <img width="1195" height="964" alt="image" src="https://github.com/user-attachments/assets/e8f4b56b-a703-411d-bf98-a6d5f695ba4e" />
 
 
+
+
+
+
 <img width="1320" height="789" alt="image" src="https://github.com/user-attachments/assets/40b40cb2-8558-4fca-9f00-1a25f6a3c50b" />
+
+
+
 
 
 # Recommendation
