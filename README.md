@@ -35,7 +35,7 @@ The data used for this analysis was found on Kaggle website. You can get the dat
   Imported the files into MYSQL through the Table Import wizard
 
   # Data Analysis
-  On my SQL Workbench, created queries to answer the objectives listed above. Results of these queries shown below are included in the attached file titled "Analyzed Superstore Queries". 
+  On my SQL Workbench, created queries to answer the objectives listed above. Results of these queries shown below are included in the attached file titled "Analyzed Superstore Queries with Results". 
 
 
 <img width="1753" height="977" alt="image" src="https://github.com/user-attachments/assets/a1830e7e-b0ba-4e9c-a314-69b01ba56a10" />
