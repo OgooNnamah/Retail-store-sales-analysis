@@ -78,7 +78,6 @@ The data used for this analysis was found on Kaggle website. You can get the dat
 
 
 
-# Recommendation
 
 # Final Notes
 Thank you for reading
